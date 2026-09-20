@@ -1,18 +1,22 @@
 <div align="center">
 
-<a href="https://github.com/LAKSHIYA24">
-<img src="./assets/hero.svg" width="100%" alt="Lakshiya Sri K M — AI/ML Developer"/>
+<img src="./assets/hero.gif" width="100%" alt="Animated Lakshiya Sri K M AI/ML profile hero"/>
+
+<br/>
+
+<a href="mailto:lakshiyasrikm05@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br>
-
-<a href="https://github.com/LAKSHIYA24"><img src="https://img.shields.io/badge/GitHub-LAKSHIYA24-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lakshiya-sri-k-m-ba91772a2/"><img src="https://img.shields.io/badge/LinkedIn-Lakshiya%20Sri%20K%20M-111827?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:lakshiyasrikm05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lakshiya-sri-k-m-ba91772a2/">
+<img src="https://img.shields.io/badge/LINKEDIN-6D5DFB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/LAKSHIYA24">
+<img src="https://img.shields.io/badge/GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=111827" />
+</a>
 
 </div>
 
-<br>
+<br/>
 
 <table>
 <tr>
@@ -20,18 +24,19 @@
 
 ## 🧠 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning student** at Rajalakshmi Engineering College with a strong interest in building practical AI systems.
+**B.Tech Artificial Intelligence & Machine Learning** student at Rajalakshmi Engineering College.
 
-I work across:
+I enjoy building practical AI systems across **Machine Learning, Computer Vision, NLP, Generative AI, cloud platforms and scalable APIs.**
 
-- 🤖 Machine Learning & Generative AI
-- 👁️ Computer Vision
-- 🧠 NLP
-- ⚙️ Data Engineering & MLOps
-- ☁️ Cloud-based AI applications
-- 🚀 Full-stack intelligent systems
+```text
+→ Learn
+→ Build
+→ Experiment
+→ Deploy
+→ Repeat
+```
 
-> **Curiosity drives progress, and AI turns possibilities into reality.**
+> *Curiosity drives progress, and AI turns possibilities into reality.*
 
 </td>
 
@@ -39,27 +44,25 @@ I work across:
 
 ## ⚡ Tech Stack
 
-**Languages**
+<div align="center">
 
-`Python` `Java` `C` `SQL` `JavaScript`
+<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,jupyter,vscode&perline=5" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=huggingface&perline=5" />
 
-**AI / ML**
+</div>
 
-`TensorFlow` `Transformers` `Generative AI` `NLP` `Computer Vision`
-
-**Frameworks**
-
-`FastAPI` `LangChain` `Flask`
-
-**Tools & Platforms**
-
-`Azure ML` `AWS` `Google Colab` `Jupyter` `Hugging Face` `Docker` `Git` `MLflow`
+<p align="center">
+<sub>TensorFlow • Transformers • GenAI • NLP • Computer Vision • LangChain • MLOps • MLflow</sub>
+</p>
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -69,14 +72,11 @@ I work across:
 
 ### 🚗 ResQAI
 
-**AI-Powered Accident Detection System**
+**AI-Powered Accident Detection**
 
-Real-time accident detection using YOLO-based deep learning with automated emergency alerts and live location mapping.
+YOLO-based real-time accident detection with automated emergency alerts and live location mapping.
 
-**Stack:**  
-`Python` `OpenCV` `TensorFlow` `YOLO` `Flask` `Twilio` `Google Maps`
-
-<a href="https://github.com/LAKSHIYA24">View Project →</a>
+`Python` `OpenCV` `TensorFlow` `YOLO` `Flask` `Twilio`
 
 </td>
 
@@ -84,14 +84,11 @@ Real-time accident detection using YOLO-based deep learning with automated emerg
 
 ### 📄 LinkedMind
 
-**AI Resume Analyzer & Job Role Prediction**
+**AI Resume Analyzer**
 
-NLP-powered resume analysis system that predicts top job roles, generates professional bios and tracks resume history.
+Predicts top job roles, generates professional bios and analyzes resume skills using NLP.
 
-**Stack:**  
-`Python` `Flask` `NLTK` `PyPDF2` `JavaScript`
-
-<a href="https://github.com/LAKSHIYA24">View Project →</a>
+`Python` `Flask` `NLTK` `PyPDF2` `GenAI`
 
 </td>
 
@@ -101,98 +98,69 @@ NLP-powered resume analysis system that predicts top job roles, generates profes
 
 **Campaign Management System**
 
-Full-stack CRM designed to manage leads, campaigns and customer interactions with lead scoring, dashboards and REST APIs.
+Full-stack CRM for leads, campaigns and customer interactions with scoring, dashboards and REST APIs.
 
-**Stack:**  
-`FastAPI` `MySQL` `React.js` `REST API`
-
-<a href="https://github.com/LAKSHIYA24">View Project →</a>
+`FastAPI` `React.js` `MySQL` `REST API`
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="18%" align="center">
+### 🔹 Approtech R&D Solutions — Web Development Intern
+**Jun 2025 – Jul 2025**
 
-**2025**
+Full-stack web application integrating a machine-learning Loan Approval Prediction System, including preprocessing, model inference, backend API integration and cloud deployment.
 
-</td>
-<td>
+### 🔹 IEEE CIS Society — CV Head
+**Oct 2025 – Present**
 
-### Approtech R&D Solutions — Web Development Intern
+Computer vision work using **OpenCV, TensorFlow and PyTorch**, including CNN architectures such as **ResNet and YOLO** for real-time object detection.
 
-Developed a full-stack web application integrating a machine-learning-based Loan Approval Prediction System. Worked across preprocessing, model inference, backend API integration and deployment using FastAPI and cloud platforms.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-**2025 — Present**
-
-</td>
-<td>
-
-### IEEE CIS Society — CV Head
-
-Developed and optimized deep-learning computer vision models using **OpenCV, TensorFlow and PyTorch**, including CNN architectures such as **ResNet and YOLO** for real-time object detection.
-
-</td>
-</tr>
-</table>
-
-<br>
+<br/>
 
 ## 🏆 Achievements
 
-| | Achievement |
-|---|---|
-| 🥇 | **Winner — SIH Internal Hackathon 2025** |
-| 🏅 | **Finalist — InternEzy Hackathon 2025** |
-| 🎯 | **Event Management Head — Phoenix, REC** |
-| 👁️ | **CV Head — IEEE CIS Society, REC** |
+<div align="center">
 
-<br>
+| 🥇 SIH Internal Hackathon 2025 | 🏅 InternEzy Hackathon 2025 | 🎯 Phoenix, REC | 👁️ IEEE CIS |
+|:---:|:---:|:---:|:---:|
+| **Winner** | **Finalist** | **Event Management Head** | **CV Head** |
+
+</div>
+
+<br/>
 
 ## 🎓 Education
 
 **Rajalakshmi Engineering College, Chennai**  
-Bachelor of Technology — **Artificial Intelligence & Machine Learning**  
+B.Tech — **Artificial Intelligence & Machine Learning**  
 **CGPA: 8.85 / 10.0** · Sept 2023 – Present
 
-<br>
+<br/>
 
-## 📊 GitHub Activity
-
-> Your **real GitHub contribution graph, repositories, pinned projects, achievements and activity feed are already rendered by GitHub itself** on your profile.  
-> This README intentionally does **not** fake streaks, contribution counts or repository statistics.
+## 📈 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHIYA24&layout=compact&hide_border=true&theme=transparent&title_color=8b5cf6&text_color=cbd5e1&icon_color=22d3ee" height="160"/>
+<a href="https://github.com/LAKSHIYA24">
+<img src="https://github-readme-stats.vercel.app/api?username=LAKSHIYA24&show_icons=true&hide_border=true&theme=transparent&title_color=8b5cf6&text_color=cbd5e1&icon_color=22d3ee&rank_icon=github" height="165"/>
+</a>
+
+<a href="https://github.com/LAKSHIYA24">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHIYA24&layout=compact&hide_border=true&theme=transparent&title_color=ec4899&text_color=cbd5e1" height="165"/>
+</a>
 
 </div>
 
-<br>
-
-## 🌐 Languages
-
-`English` · `Tamil` · `Hindi`
-
-<br>
+<br/>
 
 <div align="center">
 
-### ✦ Building intelligent solutions, one project at a time ✦
-
-<br>
+### ✦ BUILD • LEARN • CREATE • REPEAT ✦
 
 <a href="mailto:lakshiyasrikm05@gmail.com">Let's Connect →</a>
 
